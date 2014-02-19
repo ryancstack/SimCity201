@@ -1,0 +1,171 @@
+<?xml version="1.0"?>  
+<city>  
+	<Person>  
+		<name>Ryan</name>  
+		<job>StackWaiterNormal</job>
+		<aggressiveness>1</aggressiveness>
+		<startingFunds>1000</startingFunds>
+		<housingStatus>House1</housingStatus>
+		<vehicleStatus>Takes The Bus</vehicleStatus>
+	</Person> 
+	<Person>  
+		<name>Bob</name>  
+		<job>StackWaiterShared</job>
+		<aggressiveness>1</aggressiveness>
+		<startingFunds>1000</startingFunds>
+		<housingStatus>House2</housingStatus>
+		<vehicleStatus>Takes The Bus</vehicleStatus>
+	</Person> 
+	<Person>  
+		<name>Steve</name>  
+		<job>StackCook</job>
+		<aggressiveness>1</aggressiveness>
+		<startingFunds>1000</startingFunds>
+		<housingStatus>House3</housingStatus>
+		<vehicleStatus>Takes The Bus</vehicleStatus>
+	</Person> 
+	<Person>  
+		<name>Jimmy</name>  
+		<job>ShehWaiterShared</job>
+		<aggressiveness>1</aggressiveness>
+		<startingFunds>1000</startingFunds>
+		<housingStatus>House2</housingStatus>
+		<vehicleStatus>Takes The Bus</vehicleStatus>
+	</Person> 
+	<Person>  
+		<name>John</name>  
+		<job>ShehWaiterNormal</job>
+		<aggressiveness>1</aggressiveness>
+		<startingFunds>1000</startingFunds>
+		<housingStatus>House2</housingStatus>
+		<vehicleStatus>Takes The Bus</vehicleStatus>
+	</Person> 
+	<Person>  
+		<name>Sandy</name>  
+		<job>ShehCook</job>
+		<aggressiveness>1</aggressiveness>
+		<startingFunds>1000</startingFunds>
+		<housingStatus>House2</housingStatus>
+		<vehicleStatus>Takes The Bus</vehicleStatus>
+	</Person> 
+	<Person>  
+		<name>Erica</name>  
+		<job>TanWaiterNormal</job>
+		<aggressiveness>1</aggressiveness>
+		<startingFunds>200</startingFunds>
+		<housingStatus>House3</housingStatus>
+		<vehicleStatus>Takes The Bus</vehicleStatus>
+	</Person> 
+	<Person>  
+		<name>Katie</name>  
+		<job>TanWaiterShared</job>
+		<aggressiveness>1</aggressiveness>
+		<startingFunds>100</startingFunds>
+		<housingStatus>House3</housingStatus>
+		<vehicleStatus>Takes The Bus</vehicleStatus>
+	</Person>
+	<Person>  
+		<name>Catherine</name>  
+		<job>TanCook</job>
+		<aggressiveness>1</aggressiveness>
+		<startingFunds>100</startingFunds>
+		<housingStatus>House3</housingStatus>
+		<vehicleStatus>Takes The Bus</vehicleStatus>
+	</Person>
+		<Person>  
+		<name>Larry</name>  
+		<job>NakamuraWaiterNormal</job>
+		<aggressiveness>1</aggressiveness>
+		<startingFunds>200</startingFunds>
+		<housingStatus>House4</housingStatus>
+		<vehicleStatus>Takes The Bus</vehicleStatus>
+	</Person> 
+	<Person>  
+		<name>Joe</name>  
+		<job>NakamuraWaiterShared</job>
+		<aggressiveness>1</aggressiveness>
+		<startingFunds>100</startingFunds>
+		<housingStatus>House4</housingStatus>
+		<vehicleStatus>Takes The Bus</vehicleStatus>
+	</Person>
+	<Person>  
+		<name>Craig</name>  
+		<job>NakamuraCook</job>
+		<aggressiveness>1</aggressiveness>
+		<startingFunds>100</startingFunds>
+		<housingStatus>House4</housingStatus>
+		<vehicleStatus>Takes The Bus</vehicleStatus>
+	</Person>
+		<Person>  
+		<name>Stephen</name>  
+		<job>HuangWaiterNormal</job>
+		<aggressiveness>1</aggressiveness>
+		<startingFunds>200</startingFunds>
+		<housingStatus>House5</housingStatus>
+		<vehicleStatus>Takes The Bus</vehicleStatus>
+	</Person> 
+	<Person>  
+		<name>David</name>  
+		<job>HuangWaiterShared</job>
+		<aggressiveness>1</aggressiveness>
+		<startingFunds>100</startingFunds>
+		<housingStatus>House5</housingStatus>
+		<vehicleStatus>Takes The Bus</vehicleStatus>
+	</Person>
+	<Person>  
+		<name>Jack</name>  
+		<job>HuangCook</job>
+		<aggressiveness>1</aggressiveness>
+		<startingFunds>100</startingFunds>
+		<housingStatus>House5</housingStatus>
+		<vehicleStatus>Takes The Bus</vehicleStatus>
+	</Person>
+		<Person>  
+		<name>Paul</name>  
+		<job>PhillipsWaiterNormal</job>
+		<aggressiveness>1</aggressiveness>
+		<startingFunds>200</startingFunds>
+		<housingStatus>House6</housingStatus>
+		<vehicleStatus>Takes The Bus</vehicleStatus>
+	</Person> 
+	<Person>  
+		<name>George</name>  
+		<job>PhillipsWaiterShared</job>
+		<aggressiveness>1</aggressiveness>
+		<startingFunds>100</startingFunds>
+		<housingStatus>House6</housingStatus>
+		<vehicleStatus>Takes The Bus</vehicleStatus>
+	</Person>
+	<Person>  
+		<name>2Chainz</name>  
+		<job>PhillipsCook</job>
+		<aggressiveness>1</aggressiveness>
+		<startingFunds>100</startingFunds>
+		<housingStatus>House6</housingStatus>
+		<vehicleStatus>Takes The Bus</vehicleStatus>
+	</Person>
+	<Person>  
+		<name>Ricky</name>  
+		<job>Unemployed</job>
+		<aggressiveness>1</aggressiveness>
+		<startingFunds>1000</startingFunds>
+		<housingStatus>House1</housingStatus>
+		<vehicleStatus>Takes The Bus</vehicleStatus>
+	</Person> 
+	<Person>  
+		<name>Robert</name>  
+		<job>Unemployed</job>
+		<aggressiveness>1</aggressiveness>
+		<startingFunds>1000</startingFunds>
+		<housingStatus>House1</housingStatus>
+		<vehicleStatus>Takes The Bus</vehicleStatus>
+	</Person> 
+	<Person>  
+		<name>Tim</name>  
+		<job>Unemployed</job>
+		<aggressiveness>1</aggressiveness>
+		<startingFunds>1000</startingFunds>
+		<housingStatus>House1</housingStatus>
+		<vehicleStatus>Takes The Bus</vehicleStatus>
+	</Person> 
+</city> 

@@ -1,0 +1,35 @@
+<?xml version="1.0"?>  
+<city>  
+	<Person>  
+		<name>Ryan</name>  
+		<job>Unemployed</job>
+		<aggressiveness>1</aggressiveness>
+		<startingFunds>1000</startingFunds>
+		<housingStatus>House1</housingStatus>
+		<vehicleStatus>Takes The Bus</vehicleStatus>
+	</Person> 
+	<Person>  
+		<name>Erica</name>  
+		<job>TanWaiterNormal</job>
+		<aggressiveness>1</aggressiveness>
+		<startingFunds>200</startingFunds>
+		<housingStatus>House3</housingStatus>
+		<vehicleStatus>Takes The Bus</vehicleStatus>
+	</Person> 
+	<Person>  
+		<name>Katie</name>  
+		<job>TanWaiterShared</job>
+		<aggressiveness>1</aggressiveness>
+		<startingFunds>100</startingFunds>
+		<housingStatus>House3</housingStatus>
+		<vehicleStatus>Takes The Bus</vehicleStatus>
+	</Person>
+	<Person>  
+		<name>Catherine</name>  
+		<job>TanCook</job>
+		<aggressiveness>1</aggressiveness>
+		<startingFunds>100</startingFunds>
+		<housingStatus>House3</housingStatus>
+		<vehicleStatus>Takes The Bus</vehicleStatus>
+	</Person>
+</city> 

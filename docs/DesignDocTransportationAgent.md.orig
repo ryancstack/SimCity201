@@ -1,0 +1,118 @@
+#Design Doc: Transportation Agent
+
+##Summary
+<<<<<<< HEAD
+The Car is initially parked wherever the passenger last left it in carState= Idle. When the passenger needs the Car, he walks to the Car and sends it msgTakeMeHere(destination). The passengerGui then disappears into the Car and the carGui travels to the destination. The destination coordinates are hardcoded in carGui. When the carGui reaches its destination it sends the agent msgAtDestination(), which sends the car scheduler to perform action parkCar. Within parkCar, the Car messages the passenger that it has arrived at its destination, prompting the passenger to bring back its gui at the destination(or drop-off) coordinates.
+
+##Data
+	int CurrentStopNumber = 0;
+	int DesiredStopNumber;
+	enum state TransportationState {NeedsToTravel, InTransit, AtDestination};
+	CarAgent car;
+	BusAgent bus;
+	
+##Scheduler
+	
+	if ∃ in TransportationAgent ∋ state.NeedsToTravel()
+		then GetAVehicle(); 
+	
+	if ∃ in TransportationAgent ∋ state.InTransit()
+		then InTransitToDestination(); 	
+	
+	if ∃ in TransportationAgent ∋ state.AtDestination()
+		then GetOffVehicle(); 
+		
+	
+##Messages
+	msgThisIsBusStop(int BusStopNumber) {
+		print("This is stop number: " + BusStopNumber + ".");
+		if(DesiredStopNumber == BusStopNumber) {
+=======
+Accounts for normative scenario for Transportation Agent. 
+
+##Data
+	int currentStopNumber = 0;
+	int desiredStopNumber;
+	string destination;
+	enum state TransportationState {Walking, NeedsToTravel, InTransit, AtDestination, None};
+	CarAgent car;
+	BusAgent bus;
+	Boolean hasCar = false;
+	
+##Scheduler
+	if ∃ in TransportationAgent ∋ state.Walking()
+		then WalkToDestination(); 
+
+	if ∃ in TransportationAgent ∋ state.NeedsToTravel()
+		then GetAVehicle(); 
+	
+	if ∃ in TransportationAgent ∋ state.AtDestination()
+		then GetOffVehicle(); 
+		
+##Messages
+	msgThisIsBusStop(int BusStopNumber) {
+		currentStopNumber = BusStopNumber; //is this necessary?
+		
+		if(desiredStopNumber == BusStopNumber) {
+>>>>>>> origin/dev
+			TransportationState = AtDestination;
+		}
+	}
+	
+<<<<<<< HEAD
+	msgTakeMeHere(String myDestination){ //receives msg from passenger
+		carState = inTransit;
+		destination= myDestination;
+		stateChanged();
+	}
+	
+	msgArrivedAtDestination(){ //from carGui when reached destination
+		driving.release();
+		carState= atDestination;
+		stateChanged();
+	}
+
+##Actions	
+=======
+	msgArrivedAtDestination(String destination){ //from carGui when reached destination
+		TransportationState = atDestination;
+	}
+
+##Actions	
+	WalkToDestination() {
+		//gui to destination
+		TransportationState = None;
+	}
+
+>>>>>>> origin/dev
+	GetAVehicle() {
+		if(hasCar) {
+			car.msgTakeMeHere();
+		}
+		else if(!hasCar) {
+			bus.msgINeedARde()
+		}
+<<<<<<< HEAD
+	}
+	
+	InTransitToDestination() {
+		//gui?
+	}
+	
+	GetOffVehicle() {
+	
+=======
+		TransportationState = InTransit;
+	}
+	
+	GetOffVehicle() {
+		if(hasCar) { //if got off car, arrived at destination
+			TransportationState = None;
+			//remove car gui
+		}	
+		if(!hasCar) { //if got off bus, walk from busstop to location
+			TransportationState = Walking;
+			//add person gui at bus stop
+		}
+>>>>>>> origin/dev
+	}	

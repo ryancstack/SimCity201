@@ -1,0 +1,444 @@
+<?xml version="1.0"?>  
+<city>  
+	<Person>  
+		<name>Ryan</name>  
+		<job>StackWaiterNormal</job>
+		<aggressiveness>1</aggressiveness>
+		<startingFunds>1000</startingFunds>
+		<housingStatus>House1</housingStatus>
+		<vehicleStatus>Takes The Bus</vehicleStatus>
+	</Person> 
+	<Person>  
+		<name>Bob</name>  
+		<job>StackWaiterNormal</job>
+		<aggressiveness>1</aggressiveness>
+		<startingFunds>1000</startingFunds>
+		<housingStatus>House2</housingStatus>
+		<vehicleStatus>Takes The Bus</vehicleStatus>
+	</Person> 
+	<Person>  
+		<name>Steve</name>  
+		<job>StackCook</job>
+		<aggressiveness>1</aggressiveness>
+		<startingFunds>1000</startingFunds>
+		<housingStatus>House3</housingStatus>
+		<vehicleStatus>Takes The Bus</vehicleStatus>
+	</Person> 
+	<Person>  
+		<name>Ricky</name>  
+		<job>BankTeller</job>
+		<aggressiveness>1</aggressiveness>
+		<startingFunds>1000</startingFunds>
+		<housingStatus>House4</housingStatus>
+		<vehicleStatus>Takes The Bus</vehicleStatus>
+	</Person> 
+	<Person>  
+		<name>Robert</name>  
+		<job>BankTeller</job>
+		<aggressiveness>1</aggressiveness>
+		<startingFunds>1000</startingFunds>
+		<housingStatus>House5</housingStatus>
+		<vehicleStatus>Takes The Bus</vehicleStatus>
+	</Person> 
+	<Person>  
+		<name>Tim</name>  
+		<job>BankTeller</job>
+		<aggressiveness>1</aggressiveness>
+		<startingFunds>1000</startingFunds>
+		<housingStatus>House6</housingStatus>
+		<vehicleStatus>Takes The Bus</vehicleStatus>
+	</Person> 
+	<Person>  
+		<name>Jimmy</name>  
+		<job>BankTeller</job>
+		<aggressiveness>1</aggressiveness>
+		<startingFunds>1000</startingFunds>
+		<housingStatus>House6</housingStatus>
+		<vehicleStatus>Takes The Bus</vehicleStatus>
+	</Person> 
+	<Person>  
+		<name>John</name>  
+		<job>Market</job>
+		<aggressiveness>1</aggressiveness>
+		<startingFunds>1000</startingFunds>
+		<housingStatus>House5</housingStatus>
+		<vehicleStatus>Takes The Bus</vehicleStatus>
+	</Person> 
+	<Person>  
+		<name>Sandy</name>  
+		<job>Market2</job>
+		<aggressiveness>1</aggressiveness>
+		<startingFunds>1000</startingFunds>
+		<housingStatus>House1</housingStatus>
+		<vehicleStatus>Takes The Bus</vehicleStatus>
+	</Person> 
+	<Person>  
+		<name>Erica</name>  
+		<job>Unemployed</job>
+		<job_location></job_location>
+		<aggressiveness>1</aggressiveness>
+		<startingFunds>200</startingFunds>
+		<housingStatus>House2</housingStatus>
+		<vehicleStatus>Takes The Bus</vehicleStatus>
+	</Person> 
+	<Person>  
+		<name>Katie</name>  
+		<job>Unemployed</job>
+		<job_location></job_location>
+		<aggressiveness>1</aggressiveness>
+		<startingFunds>100</startingFunds>
+		<housingStatus>House3</housingStatus>
+		<vehicleStatus>Takes The Bus</vehicleStatus>
+	</Person> 
+	<Person>  
+		<name>Alex</name>  
+		<job>Unemployed</job>
+		<job_location></job_location>
+		<aggressiveness>1</aggressiveness>
+		<startingFunds>500</startingFunds>
+		<housingStatus>House4</housingStatus>
+		<vehicleStatus>Takes The Bus</vehicleStatus>
+	</Person> 
+	<Person>  
+		<name>Scott</name>  
+		<job>Unemployed</job>
+		<job_location></job_location>
+		<aggressiveness>1</aggressiveness>
+		<startingFunds>200</startingFunds>
+		<housingStatus>House5</housingStatus>
+		<vehicleStatus>Takes The Bus</vehicleStatus>
+	</Person>
+	<Person>  
+		<name>Scott</name>  
+		<job>Unemployed</job>
+		<job_location></job_location>
+		<aggressiveness>1</aggressiveness>
+		<startingFunds>200</startingFunds>
+		<housingStatus>House5</housingStatus>
+		<vehicleStatus>Takes The Bus</vehicleStatus>
+	</Person>
+	<Person>  
+		<name>Scott</name>  
+		<job>Unemployed</job>
+		<job_location></job_location>
+		<aggressiveness>1</aggressiveness>
+		<startingFunds>200</startingFunds>
+		<housingStatus>House5</housingStatus>
+		<vehicleStatus>Takes The Bus</vehicleStatus>
+	</Person>
+	<Person>  
+		<name>Scott</name>  
+		<job>Unemployed</job>
+		<job_location></job_location>
+		<aggressiveness>1</aggressiveness>
+		<startingFunds>200</startingFunds>
+		<housingStatus>House5</housingStatus>
+		<vehicleStatus>Takes The Bus</vehicleStatus>
+	</Person>
+	<Person>  
+		<name>Scott</name>  
+		<job>Unemployed</job>
+		<job_location></job_location>
+		<aggressiveness>1</aggressiveness>
+		<startingFunds>200</startingFunds>
+		<housingStatus>House5</housingStatus>
+		<vehicleStatus>Takes The Bus</vehicleStatus>
+	</Person>
+	<Person>  
+		<name>Scott</name>  
+		<job>Unemployed</job>
+		<job_location></job_location>
+		<aggressiveness>1</aggressiveness>
+		<startingFunds>200</startingFunds>
+		<housingStatus>House5</housingStatus>
+		<vehicleStatus>Takes The Bus</vehicleStatus>
+	</Person>
+	<Person>  
+		<name>Scott</name>  
+		<job>Unemployed</job>
+		<job_location></job_location>
+		<aggressiveness>1</aggressiveness>
+		<startingFunds>200</startingFunds>
+		<housingStatus>House5</housingStatus>
+		<vehicleStatus>Takes The Bus</vehicleStatus>
+	</Person>
+	<Person>  
+		<name>Scott</name>  
+		<job>Unemployed</job>
+		<job_location></job_location>
+		<aggressiveness>1</aggressiveness>
+		<startingFunds>200</startingFunds>
+		<housingStatus>House5</housingStatus>
+		<vehicleStatus>Takes The Bus</vehicleStatus>
+	</Person>
+	<Person>  
+		<name>Scott</name>  
+		<job>Unemployed</job>
+		<job_location></job_location>
+		<aggressiveness>1</aggressiveness>
+		<startingFunds>200</startingFunds>
+		<housingStatus>House5</housingStatus>
+		<vehicleStatus>Takes The Bus</vehicleStatus>
+	</Person>
+	<Person>  
+		<name>Scott</name>  
+		<job>Unemployed</job>
+		<job_location></job_location>
+		<aggressiveness>1</aggressiveness>
+		<startingFunds>200</startingFunds>
+		<housingStatus>House5</housingStatus>
+		<vehicleStatus>Takes The Bus</vehicleStatus>
+	</Person>
+	<Person>  
+		<name>Scott</name>  
+		<job>Unemployed</job>
+		<job_location></job_location>
+		<aggressiveness>1</aggressiveness>
+		<startingFunds>200</startingFunds>
+		<housingStatus>House5</housingStatus>
+		<vehicleStatus>Takes The Bus</vehicleStatus>
+	</Person>
+	<Person>  
+		<name>Scott</name>  
+		<job>Unemployed</job>
+		<job_location></job_location>
+		<aggressiveness>1</aggressiveness>
+		<startingFunds>200</startingFunds>
+		<housingStatus>House5</housingStatus>
+		<vehicleStatus>Takes The Bus</vehicleStatus>
+	</Person>
+	<Person>  
+		<name>Scott</name>  
+		<job>Unemployed</job>
+		<job_location></job_location>
+		<aggressiveness>1</aggressiveness>
+		<startingFunds>200</startingFunds>
+		<housingStatus>House5</housingStatus>
+		<vehicleStatus>Takes The Bus</vehicleStatus>
+	</Person>
+	<Person>  
+		<name>Scott</name>  
+		<job>Unemployed</job>
+		<job_location></job_location>
+		<aggressiveness>1</aggressiveness>
+		<startingFunds>200</startingFunds>
+		<housingStatus>House5</housingStatus>
+		<vehicleStatus>Takes The Bus</vehicleStatus>
+	</Person>
+	<Person>  
+		<name>Scott</name>  
+		<job>Unemployed</job>
+		<job_location></job_location>
+		<aggressiveness>1</aggressiveness>
+		<startingFunds>200</startingFunds>
+		<housingStatus>House5</housingStatus>
+		<vehicleStatus>Takes The Bus</vehicleStatus>
+	</Person>
+	<Person>  
+		<name>Scott</name>  
+		<job>Unemployed</job>
+		<job_location></job_location>
+		<aggressiveness>1</aggressiveness>
+		<startingFunds>200</startingFunds>
+		<housingStatus>House5</housingStatus>
+		<vehicleStatus>Takes The Bus</vehicleStatus>
+	</Person>
+	<Person>  
+		<name>Scott</name>  
+		<job>Unemployed</job>
+		<job_location></job_location>
+		<aggressiveness>1</aggressiveness>
+		<startingFunds>200</startingFunds>
+		<housingStatus>House5</housingStatus>
+		<vehicleStatus>Takes The Bus</vehicleStatus>
+	</Person>
+	<Person>  
+		<name>Scott</name>  
+		<job>Unemployed</job>
+		<job_location></job_location>
+		<aggressiveness>1</aggressiveness>
+		<startingFunds>200</startingFunds>
+		<housingStatus>House5</housingStatus>
+		<vehicleStatus>Takes The Bus</vehicleStatus>
+	</Person>
+	<Person>  
+		<name>Scott</name>  
+		<job>Unemployed</job>
+		<job_location></job_location>
+		<aggressiveness>1</aggressiveness>
+		<startingFunds>200</startingFunds>
+		<housingStatus>House5</housingStatus>
+		<vehicleStatus>Takes The Bus</vehicleStatus>
+	</Person>
+	<Person>  
+		<name>Scott</name>  
+		<job>Unemployed</job>
+		<job_location></job_location>
+		<aggressiveness>1</aggressiveness>
+		<startingFunds>200</startingFunds>
+		<housingStatus>House5</housingStatus>
+		<vehicleStatus>Takes The Bus</vehicleStatus>
+	</Person>
+	<Person>  
+		<name>Scott</name>  
+		<job>Unemployed</job>
+		<job_location></job_location>
+		<aggressiveness>1</aggressiveness>
+		<startingFunds>200</startingFunds>
+		<housingStatus>House5</housingStatus>
+		<vehicleStatus>Takes The Bus</vehicleStatus>
+	</Person>
+	<Person>  
+		<name>Scott</name>  
+		<job>Unemployed</job>
+		<job_location></job_location>
+		<aggressiveness>1</aggressiveness>
+		<startingFunds>200</startingFunds>
+		<housingStatus>House5</housingStatus>
+		<vehicleStatus>Takes The Bus</vehicleStatus>
+	</Person>
+	<Person>  
+		<name>Scott</name>  
+		<job>Unemployed</job>
+		<job_location></job_location>
+		<aggressiveness>1</aggressiveness>
+		<startingFunds>200</startingFunds>
+		<housingStatus>House5</housingStatus>
+		<vehicleStatus>Takes The Bus</vehicleStatus>
+	</Person>
+	<Person>  
+		<name>Scott</name>  
+		<job>Unemployed</job>
+		<job_location></job_location>
+		<aggressiveness>1</aggressiveness>
+		<startingFunds>200</startingFunds>
+		<housingStatus>House5</housingStatus>
+		<vehicleStatus>Takes The Bus</vehicleStatus>
+	</Person>
+	<Person>  
+		<name>Scott</name>  
+		<job>Unemployed</job>
+		<job_location></job_location>
+		<aggressiveness>1</aggressiveness>
+		<startingFunds>200</startingFunds>
+		<housingStatus>House5</housingStatus>
+		<vehicleStatus>Takes The Bus</vehicleStatus>
+	</Person>
+	<Person>  
+		<name>Scott</name>  
+		<job>Unemployed</job>
+		<job_location></job_location>
+		<aggressiveness>1</aggressiveness>
+		<startingFunds>200</startingFunds>
+		<housingStatus>House5</housingStatus>
+		<vehicleStatus>Takes The Bus</vehicleStatus>
+	</Person>
+	<Person>  
+		<name>Scott</name>  
+		<job>Unemployed</job>
+		<job_location></job_location>
+		<aggressiveness>1</aggressiveness>
+		<startingFunds>200</startingFunds>
+		<housingStatus>House5</housingStatus>
+		<vehicleStatus>Takes The Bus</vehicleStatus>
+	</Person>
+	<Person>  
+		<name>Scott</name>  
+		<job>Unemployed</job>
+		<job_location></job_location>
+		<aggressiveness>1</aggressiveness>
+		<startingFunds>200</startingFunds>
+		<housingStatus>House5</housingStatus>
+		<vehicleStatus>Takes The Bus</vehicleStatus>
+	</Person>
+	<Person>  
+		<name>Scott</name>  
+		<job>Unemployed</job>
+		<job_location></job_location>
+		<aggressiveness>1</aggressiveness>
+		<startingFunds>200</startingFunds>
+		<housingStatus>House5</housingStatus>
+		<vehicleStatus>Takes The Bus</vehicleStatus>
+	</Person>
+	<Person>  
+		<name>Scott</name>  
+		<job>Unemployed</job>
+		<job_location></job_location>
+		<aggressiveness>1</aggressiveness>
+		<startingFunds>200</startingFunds>
+		<housingStatus>House5</housingStatus>
+		<vehicleStatus>Takes The Bus</vehicleStatus>
+	</Person>
+	<Person>  
+		<name>Scott</name>  
+		<job>Unemployed</job>
+		<job_location></job_location>
+		<aggressiveness>1</aggressiveness>
+		<startingFunds>200</startingFunds>
+		<housingStatus>House5</housingStatus>
+		<vehicleStatus>Takes The Bus</vehicleStatus>
+	</Person>
+	<Person>  
+		<name>Scott</name>  
+		<job>Unemployed</job>
+		<job_location></job_location>
+		<aggressiveness>1</aggressiveness>
+		<startingFunds>200</startingFunds>
+		<housingStatus>House5</housingStatus>
+		<vehicleStatus>Takes The Bus</vehicleStatus>
+	</Person>
+	<Person>  
+		<name>Scott</name>  
+		<job>Unemployed</job>
+		<job_location></job_location>
+		<aggressiveness>1</aggressiveness>
+		<startingFunds>200</startingFunds>
+		<housingStatus>House5</housingStatus>
+		<vehicleStatus>Takes The Bus</vehicleStatus>
+	</Person>
+	<Person>  
+		<name>Scott</name>  
+		<job>Unemployed</job>
+		<job_location></job_location>
+		<aggressiveness>1</aggressiveness>
+		<startingFunds>200</startingFunds>
+		<housingStatus>House5</housingStatus>
+		<vehicleStatus>Takes The Bus</vehicleStatus>
+	</Person>
+	<Person>  
+		<name>Scott</name>  
+		<job>Unemployed</job>
+		<job_location></job_location>
+		<aggressiveness>1</aggressiveness>
+		<startingFunds>200</startingFunds>
+		<housingStatus>House5</housingStatus>
+		<vehicleStatus>Takes The Bus</vehicleStatus>
+	</Person>
+	<Person>  
+		<name>Scott</name>  
+		<job>Unemployed</job>
+		<job_location></job_location>
+		<aggressiveness>1</aggressiveness>
+		<startingFunds>200</startingFunds>
+		<housingStatus>House5</housingStatus>
+		<vehicleStatus>Takes The Bus</vehicleStatus>
+	</Person>
+	<Person>  
+		<name>Scott</name>  
+		<job>Unemployed</job>
+		<job_location></job_location>
+		<aggressiveness>1</aggressiveness>
+		<startingFunds>200</startingFunds>
+		<housingStatus>House5</housingStatus>
+		<vehicleStatus>Takes The Bus</vehicleStatus>
+	</Person>
+	<Person>  
+		<name>Scott</name>  
+		<job>Unemployed</job>
+		<job_location></job_location>
+		<aggressiveness>1</aggressiveness>
+		<startingFunds>200</startingFunds>
+		<housingStatus>House5</housingStatus>
+		<vehicleStatus>Takes The Bus</vehicleStatus>
+	</Person>
+</city> 
